@@ -21,5 +21,5 @@ INNER JOIN dim_products dp ON fe.product_code = dp.product_code;
 
 SELECT * FROM vw_fact_events_details;
 
-
+--I have created the view of table after joining every table 
 
